@@ -28,3 +28,5 @@ Hi there! 👋<br>I’m Rafi — a tech enthusiast and Informatics Engineering s
 [![](https://visitcount.itsvg.in/api?id=rffadhil&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/rffadhil/rffadhil/blob/output/github-snake-dark.svg)
