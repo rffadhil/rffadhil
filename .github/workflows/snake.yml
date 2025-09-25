@@ -87,7 +87,7 @@ jobs:
 
         with:
 
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.rffadhil }}
 
           publish_dir: ./dist
 
