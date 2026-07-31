@@ -18,11 +18,7 @@
 
 ## About Me
 
-I'm an Informatics Engineering student at Universitas Pamulang with an interest in
-software engineering, full-stack web development, and UI/UX.
-
-I enjoy building web applications, exploring new technologies, and continuously
-improving my skills through projects and hands-on learning.
+<img src="./assets/about-me.svg" alt="About Rafi Fadhil Amanullah" width="100%" />
 
 ## Tech Stack
 
@@ -48,9 +44,7 @@ improving my skills through projects and hands-on learning.
 
 ## Currently Learning & Building
 
-Currently focused on strengthening my full-stack development skills by building
-web applications with modern JavaScript technologies and exploring software
-engineering best practices.
+<img src="./assets/currently-building.svg" alt="Currently Learning and Building" width="100%" />
 
 ## GitHub Statistics
 

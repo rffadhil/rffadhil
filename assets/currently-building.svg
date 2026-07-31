@@ -1,0 +1,151 @@
+<svg width="1280" height="330" viewBox="0 0 1280 330" fill="none"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Currently Learning and Building</title>
+  <desc id="desc">Technologies and areas currently explored by Rafi Fadhil Amanullah.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1240" y2="310">
+      <stop stop-color="#07101F"/>
+      <stop offset="0.5" stop-color="#0B2243"/>
+      <stop offset="1" stop-color="#0C4F5C"/>
+    </linearGradient>
+
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="white" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="white" stop-opacity="0.035"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0" cy="0" r="1"
+      gradientTransform="translate(1030 150) rotate(170) scale(430 250)">
+      <stop stop-color="#22D3EE" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="330" rx="28" fill="url(#bg)"/>
+  <circle cx="1030" cy="150" r="280" fill="url(#glow)"/>
+
+  <!-- Heading -->
+  <text x="70" y="66"
+        fill="#7DD3FC"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="16"
+        font-weight="700"
+        letter-spacing="3">
+    CURRENTLY LEARNING &amp; BUILDING
+  </text>
+
+  <text x="70" y="104"
+        fill="white"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="25"
+        font-weight="700">
+    Growing through projects, one commit at a time.
+  </text>
+
+  <!-- React card -->
+  <rect x="70" y="140" width="350" height="135" rx="22"
+        fill="url(#card)" stroke="white" stroke-opacity="0.10"/>
+
+  <g transform="translate(110 178)"
+     fill="none" stroke="#61DAFB" stroke-width="2">
+    <ellipse rx="17" ry="6"/>
+    <ellipse rx="17" ry="6" transform="rotate(60)"/>
+    <ellipse rx="17" ry="6" transform="rotate(120)"/>
+    <circle r="3" fill="#61DAFB" stroke="none"/>
+  </g>
+
+  <text x="145" y="184"
+        fill="white"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="20"
+        font-weight="700">
+    Front-End
+  </text>
+
+  <text x="100" y="226"
+        fill="#94A3B8"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="15">
+    React &amp; modern JavaScript
+  </text>
+
+  <rect x="100" y="247" width="270" height="5" rx="2.5"
+        fill="white" fill-opacity="0.08"/>
+  <rect x="100" y="247" width="205" height="5" rx="2.5"
+        fill="#22D3EE" fill-opacity="0.75"/>
+
+
+  <!-- Backend card -->
+  <rect x="465" y="140" width="350" height="135" rx="22"
+        fill="url(#card)" stroke="white" stroke-opacity="0.10"/>
+
+  <circle cx="505" cy="178" r="19"
+          fill="#5FA04E" fill-opacity="0.13"
+          stroke="#5FA04E" stroke-opacity="0.8"/>
+
+  <text x="505" y="184"
+        text-anchor="middle"
+        fill="#5FA04E"
+        font-family="Arial"
+        font-size="13"
+        font-weight="700">
+    JS
+  </text>
+
+  <text x="540" y="184"
+        fill="white"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="20"
+        font-weight="700">
+    Back-End
+  </text>
+
+  <text x="495" y="226"
+        fill="#94A3B8"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="15">
+    Node.js &amp; REST APIs
+  </text>
+
+  <rect x="495" y="247" width="270" height="5" rx="2.5"
+        fill="white" fill-opacity="0.08"/>
+  <rect x="495" y="247" width="185" height="5" rx="2.5"
+        fill="#5FA04E" fill-opacity="0.75"/>
+
+
+  <!-- UI UX card -->
+  <rect x="860" y="140" width="350" height="135" rx="22"
+        fill="url(#card)" stroke="white" stroke-opacity="0.10"/>
+
+  <g transform="translate(900 178)">
+    <circle cx="-4" cy="-8" r="5" fill="#F24E1E"/>
+    <circle cx="5" cy="-8" r="5" fill="#FF7262"/>
+    <circle cx="-4" cy="1" r="5" fill="#A259FF"/>
+    <circle cx="5" cy="1" r="5" fill="#1ABCFE"/>
+    <circle cx="-4" cy="10" r="5" fill="#0ACF83"/>
+  </g>
+
+  <text x="935" y="184"
+        fill="white"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="20"
+        font-weight="700">
+    UI/UX
+  </text>
+
+  <text x="890" y="226"
+        fill="#94A3B8"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="15">
+    Interfaces &amp; user experience
+  </text>
+
+  <rect x="890" y="247" width="270" height="5" rx="2.5"
+        fill="white" fill-opacity="0.08"/>
+  <rect x="890" y="247" width="170" height="5" rx="2.5"
+        fill="#A259FF" fill-opacity="0.75"/>
+
+</svg>

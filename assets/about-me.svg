@@ -1,0 +1,91 @@
+<svg width="1280" height="330" viewBox="0 0 1280 330"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">About Rafi Fadhil Amanullah</title>
+  <desc id="desc">About me card for Rafi Fadhil Amanullah.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1240" y2="280">
+      <stop stop-color="#07101F"/>
+      <stop offset="0.52" stop-color="#0B2243"/>
+      <stop offset="1" stop-color="#0C4F5C"/>
+    </linearGradient>
+
+    <linearGradient id="panel" x1="70" y1="45" x2="1190" y2="260">
+      <stop stop-color="white" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="white" stop-opacity="0.035"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0" cy="0" r="1"
+      gradientTransform="translate(1090 90) rotate(145) scale(390 230)">
+      <stop stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="300" rx="28" fill="url(#bg)"/>
+  <circle cx="1090" cy="90" r="250" fill="url(#glow)"/>
+
+  <rect x="42" y="36" width="1196" height="258" rx="26"
+      fill="url(#panel)" stroke="white" stroke-opacity="0.10"/>
+
+  <!-- Icon -->
+  <rect x="78" y="72" width="58" height="58" rx="16"
+        fill="#22D3EE" fill-opacity="0.10"
+        stroke="#22D3EE" stroke-opacity="0.35"/>
+
+  <text x="107" y="110"
+        text-anchor="middle"
+        fill="#7DD3FC"
+        font-family="Segoe UI Symbol, Arial"
+        font-size="27">&lt;/&gt;</text>
+
+  <!-- Heading -->
+  <text x="158" y="93"
+        fill="#7DD3FC"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="16"
+        font-weight="700"
+        letter-spacing="3">
+    ABOUT ME
+  </text>
+
+  <text x="158" y="126"
+        fill="white"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="27"
+        font-weight="700">
+    Informatics Engineering Student
+  </text>
+
+  <!-- Description -->
+  <text x="78" y="177"
+        fill="#D7F3FF"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="18"
+        font-weight="400">
+    <tspan x="78" dy="0">
+      Passionate about software engineering, full-stack web development, and UI/UX.
+    </tspan>
+    <tspan x="78" dy="31">
+      I enjoy turning ideas into web experiences while continuously learning and building.
+    </tspan>
+  </text>
+
+  <!-- University pill -->
+  <rect x="78" y="225" width="226" height="28" rx="14"
+        fill="white" fill-opacity="0.08"
+        stroke="white" stroke-opacity="0.10"/>
+
+  <circle cx="95" cy="239" r="4" fill="#22D3EE"/>
+
+  <text x="108" y="244"
+        fill="#94A3B8"
+        font-family="Poppins, Segoe UI, Arial"
+        font-size="14"
+        font-weight="500">
+    Universitas Pamulang
+  </text>
+
+</svg>
