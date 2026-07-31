@@ -24,7 +24,7 @@
     </radialGradient>
   </defs>
 
-  <rect width="1280" height="300" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="330" rx="28" fill="url(#bg)"/>
   <circle cx="1090" cy="90" r="250" fill="url(#glow)"/>
 
   <rect x="42" y="36" width="1196" height="258" rx="26"
