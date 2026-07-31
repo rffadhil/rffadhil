@@ -24,7 +24,9 @@
     </radialGradient>
   </defs>
 
-  <rect width="1280" height="330" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="330" rx="28" fill="url(#bg)" stroke="#22D3EE"
+  stroke-opacity="0.16"
+  stroke-width="2"/>
   <circle cx="1030" cy="150" r="280" fill="url(#glow)"/>
 
   <!-- Heading -->
@@ -76,6 +78,7 @@
         fill="white" fill-opacity="0.08"/>
   <rect x="100" y="247" width="205" height="5" rx="2.5"
         fill="#22D3EE" fill-opacity="0.75"/>
+
 
 
   <!-- Backend card -->

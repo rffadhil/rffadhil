@@ -41,7 +41,9 @@
     </radialGradient>
   </defs>
 
-  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)" stroke="#22D3EE"
+  stroke-opacity="0.16"
+  stroke-width="2"/>
   <circle cx="1044" cy="102" r="176" fill="url(#glowA)"/>
   <circle cx="974" cy="292" r="238" fill="url(#glowB)"/>
   <circle cx="252" cy="86" r="146" fill="url(#glowC)"/>

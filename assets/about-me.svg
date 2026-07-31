@@ -34,13 +34,16 @@
     ketika dirender/scaled oleh GitHub.
   -->
   <rect
-    x="2"
-    y="2"
-    width="1276"
-    height="326"
-    rx="28"
-    fill="url(#bg)"
-  />
+  x="3"
+  y="3"
+  width="1274"
+  height="324"
+  rx="28"
+  fill="url(#bg)"
+  stroke="#22D3EE"
+  stroke-opacity="0.16"
+  stroke-width="2"
+/>
 
   <!-- Decorative glow -->
   <circle
