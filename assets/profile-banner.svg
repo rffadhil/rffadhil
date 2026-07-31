@@ -74,29 +74,72 @@
 </text>
 
   <g opacity="0.96">
-    <rect x="124" y="236" width="78" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="124.5" y="236.5" width="77" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <g transform="translate(152 253)">
-      <path d="M0 -8L11 -14L22 -8V4L11 10L0 4V-8Z" fill="none" stroke="#FF6B5A" stroke-width="2" stroke-linejoin="round"/>
-      <path d="M0 -8L11 -2L22 -8" fill="none" stroke="#FF6B5A" stroke-width="2" stroke-linejoin="round"/>
-      <path d="M11 -2V10" stroke="#FF6B5A" stroke-width="2" stroke-linecap="round"/>
-    </g>
 
-    <rect x="222" y="236" width="78" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="222.5" y="236.5" width="77" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <g transform="translate(261 253)">
-      <path d="M-15 -8L0 10L15 -8H8L0 2L-8 -8H-15Z" fill="#41B883"/>
-      <path d="M-8 -8L0 2L8 -8H3L0 -3L-3 -8H-8Z" fill="#E9FBFF"/>
-    </g>
+  <!-- React -->
+  <rect x="124" y="236" width="78" height="34" rx="17" fill="url(#tagFill)"/>
+  <rect x="124.5" y="236.5" width="77" height="33" rx="16.5"
+        stroke="white" stroke-opacity="0.11"/>
 
-    <rect x="320" y="236" width="86" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="320.5" y="236.5" width="85" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <g transform="translate(363 252)">
-      <circle cx="-4" cy="-8" r="4.5" fill="#F24E1E"/>
-      <circle cx="4" cy="-8" r="4.5" fill="#FF7262"/>
-      <circle cx="-4" cy="0" r="4.5" fill="#A259FF"/>
-      <circle cx="4" cy="0" r="4.5" fill="#1ABCFE"/>
-      <path d="M-4 4.5C-6.485 4.5 -8.5 6.515 -8.5 9C-8.5 11.485 -6.485 13.5 -4 13.5C-1.515 13.5 0.5 11.485 0.5 9V4.5H-4Z" fill="#0ACF83"/>
-    </g>
+  <g transform="translate(163 253)"
+     fill="none"
+     stroke="#61DAFB"
+     stroke-width="1.8">
+    <ellipse rx="15" ry="5.5"/>
+    <ellipse rx="15" ry="5.5" transform="rotate(60)"/>
+    <ellipse rx="15" ry="5.5" transform="rotate(120)"/>
+    <circle r="2.8" fill="#61DAFB" stroke="none"/>
   </g>
+
+
+  <!-- Node.js -->
+  <rect x="222" y="236" width="78" height="34" rx="17" fill="url(#tagFill)"/>
+  <rect x="222.5" y="236.5" width="77" height="33" rx="16.5"
+        stroke="white" stroke-opacity="0.11"/>
+
+  <g transform="translate(261 253)">
+    <path
+      d="M0 -14
+         L12 -7
+         L12 7
+         L0 14
+         L-12 7
+         L-12 -7
+         Z"
+      fill="none"
+      stroke="#5FA04E"
+      stroke-width="2"
+      stroke-linejoin="round"
+    />
+    <text
+      x="0"
+      y="5"
+      text-anchor="middle"
+      fill="#5FA04E"
+      font-family="Arial, sans-serif"
+      font-size="13"
+      font-weight="700">JS</text>
+  </g>
+
+
+  <!-- Figma -->
+  <rect x="320" y="236" width="86" height="34" rx="17" fill="url(#tagFill)"/>
+  <rect x="320.5" y="236.5" width="85" height="33" rx="16.5"
+        stroke="white" stroke-opacity="0.11"/>
+
+  <g transform="translate(363 252)">
+    <circle cx="-4" cy="-8" r="4.5" fill="#F24E1E"/>
+    <circle cx="4" cy="-8" r="4.5" fill="#FF7262"/>
+    <circle cx="-4" cy="0" r="4.5" fill="#A259FF"/>
+    <circle cx="4" cy="0" r="4.5" fill="#1ABCFE"/>
+    <path
+      d="M-4 4.5
+         C-6.485 4.5 -8.5 6.515 -8.5 9
+         C-8.5 11.485 -6.485 13.5 -4 13.5
+         C-1.515 13.5 0.5 11.485 0.5 9
+         V4.5H-4Z"
+      fill="#0ACF83"
+    />
+  </g>
+
+</g>
 </svg>

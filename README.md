@@ -54,16 +54,14 @@ engineering best practices.
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rffadhil&show_icons=true&theme=transparent&hide_border=true" alt="Rafi's GitHub stats" />
+## GitHub Statistics
+
+<p>
+  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rffadhil&theme=transparent&hide_border=true" alt="Rafi's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rffadhil&theme=transparent&hide_border=true&layout=compact" alt="Most Used Languages" />
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rffadhil&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
 </p>
 
 <p>
