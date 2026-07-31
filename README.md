@@ -64,10 +64,6 @@ engineering best practices.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rffadhil&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rffadhil&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
-
 ## Contribution Graph
 
 <picture>
