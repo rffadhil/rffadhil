@@ -54,8 +54,6 @@ engineering best practices.
 
 ## GitHub Statistics
 
-## GitHub Statistics
-
 <p>
   <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
 </p>
