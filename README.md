@@ -52,14 +52,14 @@
   <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rffadhil&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
-
-## Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rffadhil/rffadhil/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rffadhil/rffadhil/output/github-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rffadhil/rffadhil/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+## Contribution Graph
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rffadhil&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
