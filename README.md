@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="https://rafi-portofolio-tau.vercel.app">Portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/rafi-fadhil-amanullah-0b1412326/">LinkedIn</a>
   ·
