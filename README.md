@@ -23,12 +23,8 @@
 ## On Repeat
 
 <p align="center">
-  <a href="https://open.spotify.com/embed/track/4x2PkqSLtuwv53hLqq4GiY" target="_blank">
-    <img
-      src="./assets/favorite-song.svg"
-      alt="Backburner — NIKI"
-      width="100%"
-    />
+  <a href="https://rffadhil.github.io/rffadhil/music/">
+    <img src="./assets/favorite-song.svg" alt="Listen to Backburner by NIKI" width="100%" />
   </a>
 </p>
 
