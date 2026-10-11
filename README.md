@@ -20,6 +20,18 @@
 
 <img src="./assets/about-me.svg" alt="About Rafi Fadhil Amanullah" width="100%" />
 
+## On Repeat
+
+<p align="center">
+  <a href="https://open.spotify.com/embed/track/4x2PkqSLtuwv53hLqq4GiY" target="_blank">
+    <img
+      src="./assets/favorite-song.svg"
+      alt="Backburner — NIKI"
+      width="100%"
+    />
+  </a>
+</p>
+
 ## Tech Stack
 
 <p align="center">

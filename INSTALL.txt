@@ -1,0 +1,16 @@
+SETUP — BACKBURNER MUSIC PAGE
+
+1. In your local rffadhil repository, create a folder named: music
+2. Copy index.html into that folder. Final path: music/index.html
+3. Commit and push the change to GitHub.
+4. On GitHub, open repository rffadhil/rffadhil > Settings > Pages.
+5. Under Build and deployment, choose "Deploy from a branch".
+6. Select branch "main" and folder "/ (root)", then click Save.
+7. Wait for GitHub Pages to finish publishing. The page should be at:
+   https://rffadhil.github.io/rffadhil/music/
+8. Copy the snippet from README-snippet.md into the profile README.md.
+
+IMPORTANT:
+- This page uses Spotify's official Embed iframe. Visitors can press Play on the embedded player.
+- Spotify controls playback; login/account/region/browser restrictions may apply.
+- Do not replace the encrypted-media permission on the iframe, because Spotify says it is needed for full playback rather than preview-only behavior.
