@@ -20,14 +20,6 @@
 
 <img src="./assets/about-me.svg" alt="About Rafi Fadhil Amanullah" width="100%" />
 
-## On Repeat
-
-<p align="center">
-  <a href="https://rffadhil.github.io/rffadhil/music/">
-    <img src="./assets/favorite-song.svg" alt="Listen to Backburner by NIKI" width="100%" />
-  </a>
-</p>
-
 ## Tech Stack
 
 <p align="center">
